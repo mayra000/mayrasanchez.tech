@@ -468,6 +468,7 @@ section {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #45505b;
+  text-align: left;
 }
 
 .skills .progress .skill .val {
