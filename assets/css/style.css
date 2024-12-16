@@ -551,9 +551,10 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
-.portfolio .portfolio-item {
+/* .portfolio .portfolio-item {
   margin-bottom: 30px;
-}
+} */
+
 
 .portfolio #portfolio-flters {
   padding: 0;
